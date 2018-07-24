@@ -1,6 +1,6 @@
 def cupidShuffle
   count = 0
-  while count < 10
+  until count = 10
     puts "to the right"
     puts "to the left"
     count += 1
